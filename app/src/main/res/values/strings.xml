@@ -1,0 +1,559 @@
+<resources>
+    <string name="app_name">MiMascota</string>
+    <string name="titulo">!BIENVENIDOS!</string>
+    <string name="bibliografiapro">
+        Los  autores han utilizado como principal herramienta una extensa bibliografía; la medicina veterinaria se nutre con gran cantidad de información actualizada, por lo tanto corresponde citar de Internet los excelentes artículos que allí consultamos y sus enlaces.\n
+\n
+Se buscó hallar un equilibrio entre una sólida base teórica dada por la bibliografía citada y el aporte de la extensa práctica de los autores-editores en Clínica Veterinaria de Pequeños Animales.\n
+\n
+        <b>* Acha, P.N.; Szyfres, B.:</b> Zoonosis y enfermedad es transmisibles comunes al hombre y a los animales - Editado por la Organización Panamericana de la Salud.\n  \n
+<b>* Anderson, N.V.:</b> Gastroenterología Veterinaria II Edición - Editorial Intermédica. Argentina.\n  \n
+    <b>* Birchard, S.J., Sherding, R.G.:</b> Manual Clínico de Pequeñas Especies.\n  \n
+<b>* Diccionario Médico: </b>Salvat Editores, S.A.\n  \n
+<b>* Fenner, W.R: </b>Medicina Veterinaria de perros y gatos.\n  \n
+<b>* Hutter, E. y col.:</b> Manual Clínico de Enfermedad es Infecciosas. Canino s y Felinos. \n  \n
+<b>* Kirk, R.W., Bonagura, J. D.:</b> Terapéutica Veterinaria de Pequeños Animales. \n  \n
+<b>* Kirk, R. W., Bistner, S. I., Ford, R. B.:</b> Manual de Procedimientos y Tratamientos de Urgencia en animales pequeños.\n  \n
+<b>* Lloyd, E.D.: </b>Manual de Terapéutica de los pequeños animales. \n  \n
+
+
+
+
+    </string>
+    <string name="huellitas">
+        "Asociacion en defenza de nuestros mejores amigos, perros y gatos, los rescatamos cuidamos y estabilizamos para que puedan ser adoptados".\n\n
+        Estamos en la 18 de Calacoto #250 Fuerza Naval \n
+    Todos los fin de semana nos encontramos en la plaza Avaroa desde las 09:30AM hasta las 18:00PM</string>
+    <string name="intro">Son técnicas y procedimientos de carácter inmediato, limitado, temporal, profesional o de personal con conocimiento técnico que es brindado al animal que lo necesita, víctima de un accidente o enfermedad repentina.
+    \n  \n
+   Podemos salvarles la vida mientras llega el veterinario o nos dirigimos a su clínica.
+    \n  \n
+   Ante todo, debemos permanecer tranquilos e intentar tranquilizar a nuestro animal, ya que ellos perciben nuestro estado de ánimo y podríamos ponerlos más nerviosos.
+    \n  \n
+    Determinar la gravedad de la situación.
+    \n  \n
+    “Recordar que no reemplazaremos al personal veterinario y que debemos transportar al animal al centro veterinario más cercano”
+    </string>
+    <string name="sos">
+        Es una entidad sin fines de lucro fundada en 1995, con la finalidad de velar por el bienestar de los animales en Bolivia. Animales S.O.S. está legalmente establecida en Bolivia con Personería Jurídica R.P. N°831/96.\n
+        \n
+        Av. Chacaltaya # 1759 (zona Achachicala ) La Paz Bolivia
+    </string>
+    <string name="anteunacc">Lo primero que tenemos que hacer es proteger tanto el lugar del accidente como a nosotros mismos poniéndonos a salvo de cualquier fuente de peligro tanto de la que ocasiono la emergencia como de cualquier otra que pudiera suceder.
+            \n  \n
+        Una vez fuera de peligro lo primero que evaluaremos será la consciencia aplicándole un estimulo doloroso, si está consciente le haremos un chequeo buscando cualquier otro signo que nos indique que necesita ayuda, si esta inconsciente, buscaremos su respiración con la técnica “vos” acercando nuestra oreja a su hocico de forma que veamos el movimiento de su tórax, oigamos su respiración y sintamos su aliento en nuestra mejilla.
+        \n  \n
+        Si respira le colocaremos en posición lateral de seguridad, si no  procederemos a la apertura de la vía aérea buscando algún objeto que este impidiendo su respiración para poder retirarlo.
+        \n  \n
+Si no respira pero tiene pulso solo insuflaremos, si por el contrario tampoco tiene pulso comenzaremos con la “rcp” (compresiones torácicas e insuflaciones).
+        \n  \n
+El pulso lo encontraremos con nuestro dedo índice en el interior de su muslo (arteria femoral) debajo del tobillo o en el pecho.
+        \n  \n
+
+    </string>
+    <string name="ahogo">
+        Si ha tragado demasiada agua, es posible que parte de esta vaya al tracto respiratorio, por lo que trataremos de que la expulse.
+        \n  \n
+        *  Si es un perro pequeño, le cogeremos las patas traseras dejándolo cabeza abajo y sacudiéndolo para que el agua salga por gravedad.
+        \n  \n
+        * Si es grande tendrá que mantenerse acostado, pero la operación es la misma, levantándolo de los cuartos traseros para que su cabeza quede abajo y expulse el agua.
+        \n  \n
+        Si como resultado no comienza a toser, es probable que la respiración se haya interrumpido, así que tenemos que constatar su respiración y ritmo cardíaco.
+        \n  \n
+        Le pondremos de costado  procurando que su cabeza quede más abajo de su cuerpo, si no existe respiración, empezaremos con  las insuflaciones, y si tampoco hay latidos habrá que realizar “rcp”.
+         \n  \n
+    </string>
+    <string name="asfixia">
+<b>Los síntomas que nos encontraremos:</b>
+   \n\n
+        *  Tos violenta que le dificulta la respiración.
+        \n
+        *  Desesperación, angustia.
+        \n
+        *  Tira frenéticamente su hocico con sus patas.
+   \n  \n
+        Existe la posibilidad de que se haya tragado un objeto y esté obstruyendo la garganta, por lo que debemos revisar su hocico y retirar el objeto extraño que lo ahoga.
+           \n  \n
+        Si no podemos verlo, lo más frecuente es que se encuentre alojado en la tráquea, por lo que realizaremos la <b><i>“maniobra de heimlich”</i></b>, que consiste en colocar al perro parado sobre sus patas traseras, mientras la persona se coloca detrás, abrazando fuertemente el pecho del perro; con un brazo, se presionará fuertemente justo debajo de las costillas (final del esternón) y se repetirá esta operación varias veces, hasta que el objeto sea expulsado.
+           \n  \n
+        Si está inconsciente realizaremos la maniobra con el perro acostado de lado, presionando fuertemente con una mano sobre las costillas y la otra debajo, tratando de producir un efecto de “fuelle”, es decir, que la presión que ejerce el aire de los pulmones tenderá a desalojar el objeto.
+           \n  \n
+        Si ya se ha liberado el objeto extraño y sigue sin respirar será necesario aportarle respiración artificial o comenzar maniobras de” rcp”.
+           \n  \n
+
+
+    </string>
+    <string name="convulciones">
+        *  Si está en estado de inconsciencia, colocarle totalmente tumbado en el suelo, lejos de objetos que le pueda hacer daño.
+        \n  \n
+        *  Poner algo mullido debajo de la cabeza del animal, para evitar que se golpee con las sacudidas.
+        \n  \n
+        *  Si podemos, introducimos un trapo en la boca para evitar que se muerda la lengua.
+        \n  \n
+        *  Mantener las manos alejadas de la boca del animal.
+
+    </string>
+    <string name="shock">
+Es una condición grave en la que baja demasiado la presión arterial, de manera que el organismo sufre una falta de oxigenación, se puede producir a consecuencia de una enfermedad, herida (hemorragia) o trauma.
+        \n  \n
+*  <b>Síntomas:</b>
+        \n
+Extrema palidez de encías, taquipnea, taquicardia y ansiedad, progresivamente la respiración se vuelve más lenta  y el pulso irregular, produciéndose una pérdida de conciencia por falta de oxigenación, que se podrá observar en la coloración de las encías que será azulada.
+        \n  \n
+        <b>Tratamiento:</b>
+        \n
+*  Tapar al animal para evitar la pérdida de temperatura.
+        \n  \n
+*  Colocar al animal de costado y estirar un poco su cabeza lejos del cuerpo para abrir la vía aérea y favorecer la respiración.
+        \n
+        *  Levantar sus cuartos traseros, de modo que la sangre corra hacia la cabeza, es posible que se necesite darle respiración artificial, o “rcp”.
+        \n\n
+    </string>
+
+    <string name="golpecalor">
+        Ocurre habitualmente en verano y cuando las mascotas son encerradas en automóviles con escasa ventilación o cerrados expuestos al sol. Otras causas también pueden ser la falta de sombra para mascotas que tienen su albergue en el exterior, la falta de agua potable, excitación excesiva o ejercicios en climas calurosos.
+        \n\n
+        <b>Síntomas:</b>
+        \n\n
+        *  Temperatura rectal de 42º c o más.
+        \n
+        *  Respiración dificultosa.
+        \n
+        *  Aumento del ritmo cardíaco.
+        \n
+        * Temblores musculares, jadeo, salivación excesiva, mucosas o encías de color azulado. Los animales no tienen la misma capacidad humana para regular la temperatura de su cuerpo, ya que no sudan. Debemos bajar la temperatura del animal inmediatamente, mojándolo con agua a temperatura ambiente (no fría) durante un buen rato y cuando se recupere probar a  darle de beber  despacio y tumbarle encima de una toalla húmeda.
+        \n
+        \n
+    </string>
+    <string name="hemorragias">
+Se produce por heridas y por daños a los tejidos u órganos internos.
+        \n\n
+Si es superficial, recortaremos el pelo alrededor de la herida, lavaremos con suero fisiológico y gasas y aplicaremos solución de yodo o agua oxigenada.
+        \n\n
+En las hemorragias externas, procuraremos reducir el flujo de sangre presionándola durante unos minutos y aplicaremos un vendaje compresivo para detener el flujo lo más rápido  posible de manera firme pero sin llegar a detener la circulación.
+        \n\n
+ <b>“Bajo ninguna circunstancia realizar un torniquete”.</b>
+        \n\n
+        <b>Tipos de hemorragia:</b>
+        \n\n
+        <b>Orejas:</b>
+        Colocar una gasa o algodón sobre la zona afectada y presionar.
+        \n\n
+        <b>Boca o lengua:</b>
+        Mantener baja la cabeza del perro para evitar que trague sangre.
+        \n\n
+        <b>Nariz: </b>
+        No se debe apretar las cavidades nasales o taponarlas, sino humedecer un paño con agua muy fría y colocarlo sobre el
+        \n\n
+        <b>Miembros: </b>
+        La presión debe realizarse entre la herida y el corazón.
+        \n\n
+        <b>Ojos: </b>
+        Colocarle paños húmedos con agua fría.
+        \n\n
+        Si se rompe una uña de raíz, limpiar la herida y vendarla para llevar al perro al veterinario.
+        \n\n
+        <b>“Nunca desinfectar heridas con alcohol, siempre usar agua oxigenada”.</b>
+        \n\n
+    </string>
+    <string name="quemaduras">
+        Son provocadas por el contacto directo con una fuente de calor.
+        \n\n
+        Se deben lavar bien con agua fría y jabón y aplicaremos crema específica para quemaduras, si no disponemos de ninguna, aplicar vaselina.
+        \n\n
+        Se aconseja tapar la zona afectada con una venda sin apretar para evitar la infección.
+        \n\n
+        En caso de quemadura por algún químico, la lavamos sin jabón, y aplicamos la crema para aliviar.
+        \n\n
+        <b>  “Si no tenemos ninguna crema, no ponemos ningún tipo de vendaje ni gasa”. </b>
+        \n\n
+    </string>
+    <string name="envenenamiento">
+        <b>Síntomas: </b>
+        Vómitos, diarrea, salivación excesiva, convulsiones, temblor muscular, mareos y tambaleos.
+        \n\n
+        Ante un posible caso de envenenamiento, si sabemos con que se ha intoxicado seguir las indicaciones del envase y llevarlo inmediatamente al veterinario.
+        \n\n
+        <b>    “Si no sabemos no inducir al vómito”.</b>
+        \n\n
+    </string>
+    <string name="picaduras">
+        En caso de avispas lavar con vinagre diluido en agua.
+        \n\n
+        Si es de avispa aplicaremos bicarbonato sódico.
+        \n\n
+        Si está muy inflamado aplicaremos compresas de agua fría.
+        \n\n
+        Si el aguijón estuviera en el ojo, nariz, o boca evitar darle agua y llevarlo urgentemente al veterinario.
+        \n\n
+    </string>
+    <string name="bicheras">
+        Es una enfermedad provocada por la presencia y desarrollo de larvas de moscas en las heridas de nuestras mascotas, hay que prestar mucha atención a estas heridas, realizándoles las limpiezas y curas pertinentes eliminando los gusanos y larvas con pinzas y lavando con agua oxigenada y aplicando curabicheras (productos que se emplean para curar o prevenir infestaciones externas del ganado, perros, etc.).
+    </string>
+    <string name="alumbramiento">
+        Una vez que empieza el alumbramiento debemos tener a mano una buena provisión de toallas, hilo para atar el cordón umbilical y desinfectante para nuestras manos, no hay que interferir en el parto salvo que sea absolutamente necesario, debiendo recurrir al veterinario si tras el inicio de las contracciones, el primer cachorro no aparece en el plazo de media hora.
+        \n\n
+        <b>Acción de emergencia. </b> La hembra debería dar a luz a un cachorro dentro de las dos horas posteriores a que rompa aguas, las siguientes crías pueden llegar a intervalos que van de unos cuantos minutos hasta las dos horas, si la perra ha estado empujando infructuosamente durante más de media hora habrá que llamar al veterinario, ya que los cachorros podrían ser demasiado grandes para que la hembra los alumbre, el veterinario podría recomendarnos una cesárea, que consiste en practicar una incisión en el abdomen y extraer los cachorros a mano.
+       \n\n
+        <b>Asistencia en el parto. </b>
+        Los cachorros nacen de cabeza y encogidos, aunque también pueden hacerlo de espaldas, si la madre tiene dificultades, podemos tirar con mucha suavidad del cachorro a la vez que esta hace fuerza, si sólo aparecen las patas habrá que llamar al veterinario.
+        \n\n
+        Si la madre no lame al recién nacido para limpiarlo, retiramos la membrana de su cara, eliminando los líquidos que obstruyen la boca y el hocico y le frotaremos con una toalla para estimular la respiración.
+        \n\n
+La madre debería morder el cordón umbilical, si no lo hace, atamos el cordón con hilo a unos 5 cm del ombligo del cachorro y lo cortamos por el lado opuesto al nudo, <b>“no hay que tirar del cordón umbilical”</b>.
+        \n\n
+La madre podría rechazar al cachorro si lo alejamos de ella; por lo que debemos permitirle lamer a su cría y lo colocaremos donde pueda amamantar.
+        \n\n
+    </string>
+    <string name="torcion">
+        Es una distensión aguda del estomago en la que puede llegar a torcerse sobre sí mismo.
+        \n\n
+        Los síntomas que presenta el perro son inquietud no parando de moverse, se queja , eructa o sufre espasmos abdominales, intenta vomitar pero no lo consigue, arroja saliva espumosa, el abdomen se hincha, se pone tenso, duro y timpánico, llevarlo urgentemente al veterinario.
+        \n\n
+        Para prevenir esta torsión debemos evitar que haga ejercicios violentos antes o después de las comidas, fraccionar la toma de alimentos y el agua si bebe desmesuradamente.
+
+    </string>
+    <string name="botiquin">
+        <b>Debemos tener un botiquín de emergencia con los siguientes materiales:</b>
+        \n\n
+        Bozal, adaptado a la talla del perro.
+        \n\n
+        Agua oxigenada y alcohol 96º.
+        \n\n
+        Solución desinfectante (tipo mercromina, mertiolato o betadine) o antiséptico específico para veterinaria en forma de spray, líquido o polvo.
+        \n\n
+        Algodón, compresas absorbentes, gasas esterilizadas y vendas.
+        \n\n
+        Esparadrapo de gran fijación.
+        \n\n
+        Termómetro irrompible de cristal líquido y lectura rápida (para temperatura rectal).
+        \n\n
+        Tijeras curvas y recta, corta-uñas y pinzas.
+        \n\n
+        Crema para quemaduras o parafina liquida.
+        \n\n
+        <b>“Como recomendación tener a mano el teléfono del veterinario de urgencias”.</b>
+        \n\n
+
+    </string>
+
+    <string name="collar">Uno de los implementos, casi obligados, del entorno del perro como animal doméstico, es el collar. Su utilización se remonta a las primitivas civilizaciones que adornaron a los canes con este artículo por un sentimiento de propiedad que caracterizaba de forma inequívoca al perro de cada dueño, y por una función meramente práctica que permitía la sujeción cómoda de] ejemplar impidiéndole atacar a un extraño no hostil o a un animal doméstico.\n  \n
+
+Se especula con diversas teorías sobre la función primitiva del collar que, bien fuera funcional o distintivo de una propiedad, revistió a lo largo de la historia del hombre y del perro un desarrollo paralelo a la selección y registro de distintas razas caninas.\n  \n
+
+<b>Collares de defensa:</b> los perros pastores, mastines, y otras razas de guardería y defensa, suelen adornarlos con collares anchos de cuero bien curtido y guarnecido con púas metálicas.
+La anchura del collar suele ser bastante grande para proteger la zona más vulnerable del animal, la garganta, con vista a una defensa a la eventual pelea que pudiera sostener el perro contra lobos u otros animales salvajes.\n
+
+En ejemplares de carácter agresivo y pendenciero se emplean collares collares reversibles de defensa o "castigo" aptos para proteger al animal de otros congéneres poco tolerantes y permiten a su paseador no ser "arrastrado" por el fogoso can, ya que dando la vuelta al implemento oprimen la garganta del perro impidiendo los tirones clásicos.\n  \n
+
+<b>Collares de identificación:</b> Suelen consistir en tiras de cuero con una hebilla de acero que se ajustan de forma firme pero holgada al cuello del animal.\n
+Llevan una chapa metálica donde se graba el nombre del perro y teléfono del propietario, que permiten una rápida identificación en caso de extravío o accidente. También suelen tener una argolla o anilla que, permite sujetarlo a una cadena o correa.\n  \n
+<b>Collares antiparasitarios:</b> Consisten fundamentalmente en tiras de material plástico o goma, poroso, impregnado con una sustancia insecticida volátil que se expande alrededor del cuerpo del animal, matando a las pulgas y garrapatas que ya tiene el animal y formando un halo protector cada vez que se mueve el animal, impidiendo la aproximacion de pulgas, garrapatas y otros parásitos externos. \n  \n
+
+<b>Collares metálicos de ahorque: </b>Especialmente aptos para ejemplares de razas de defensa de pelo corto: boxer, doberman, gran danés, etc. Constan de eslabones redondeados y una chapa en la que pueden grabarse los datos de identificación indispensables. Sujetos a la cadena se acortan, sobre el cuello del perro, ejerciendo presión proporcional al tirón del animal, permitiendo así un adiestramiento obligado en la faceta del paseo con correa. Son también insustituibles para ejemplares de piel sensible, que puedan padecer algún tipo de irritación dérmica o alopecia debida a la utilización de los clásicos collares de cuero o de nylon.\n  \n
+<b>Collares de aviso:</b> Se emplean con cascabeles o campanitas, que señalan inequívocamente la presencia del animalito. Muy útiles para razas de pequeño tamaño: pinscher enano, chihuahua, terrier miniatura, etc., que permite la localización auditiva evitando pisotones de consecuencias imprevisibles, para estas razas miniatura. \n
+Asimismo, sirven para dificultar la eficacia predatoria de perros "cazadores" que puedan estar libres en un jardín advirtiendo a sus presas eventuales:pájaros, ardillas, conejos, etc, que huyen al percibir el "cascabeleo".\n  \n
+</string>
+
+
+    <string name="eliminadecuada">
+        ELIMINACIÓN INADECUADA (Cuando hace las necesidades en sitios inapropiados) \n  \n
+La falta de aprendizaje es la causa más frecuente de eliminación inadecuada en el perro.Otras causas pueden ser:\n  \n
+-en animales viejos, por pérdida de aprendizaje, incontinencia urinaria o fecal, por problemas neurológicos,etc.\n
+-por enfermedad es del sistema nervioso central (generalmente habrán síntoma s asociados).\n
+-por ansiedad por separación (que es una alteración del comportamiento en la que se observaria eliminación inadecuada únicamente cuando el animal se queda solo en casa).\n
+-puede ser una respuesta a la sumisión (se orina cuando el propietario u otra persona llega a la casa y lo saluda o toca) o por excitación. \n  \n
+Alrededor de las 3 semanas de edad, la mayoría de cachorros han empezado a eliminar lejos de su zona de descanso por iniciativa propia. A las 5 semanas de edad, él mismo escojerá una zona destinada a la eliminación i a las 9 semanas, dicha zona de eliminación será más concreta, más pequeña. La estrategia del adiestramiento doméstico tiene que aprovechar esta tendencia innata del perro a no eliminar en las zonas de descanso. \n  \n
+<b>ADIESTRAMIENTO DOMÉSTICO </b>  \n
+La mayoría de los perros son animales de compañía, por lo que es muy importante que sean adiestrados rápidamente. El adiestramiento de recompensa es mucho más eficaz que el castigo. Al principio, los cachorros jóvenes se deben sacar al aire libre para eliminar con tanta frecuencia como resulte práctico (lo ideal sería cada hora mientras el cachorro está despierto). En poco tiempo el dueño aprenderà a predecir el tiempo en el que el cachorro necesita ser sacado y debe sacarlo después de comer, de beber, de jugar y de dormir. \n
+El uso de la misma zona permite que los olores se acumulen y debe aumentar la probabilidad de que el cachorro vuelva a eliminar de nuevo allí. Tan pronto como el cachorro elimine en el lugar apropiado, se le debe premiar abundantemente o se le debe dar una pequeña recompensa de alimento . Si el cachorro quiere jugar o entrar en casa, estas circunstancias deben usarse para premiar al perro tan pronto haya concluido la eliminación. No esperar a que el cachorro esté de nuevo en casa para darle un premio de comida, ya que esto le enseña que se le adelantan las recompensas por llegar a casa (y no por la eliminación).\n
+Apareando una señal o una orden con cada eliminación, muchos perros aprenden el concepto de la eliminación por mandato. Idealmente, si el perro es vigilado, el dueño puede intuir o aprender a identificar los signo s que preceden a la eliminación (p.e. el animal olfatea, adopta una postura agazapada, se escabulle,...) y así, puede interrumpir al perro antes de que éste elimine y encaminarle al lugar apropiado (donde se le puede elogiar y premiar por lograrlo). De esta forma, no hará falta realizar un castigo. No obstante, si el dueño ve al perro que elimina en un lugar inapropiado, se le debe interrumpir con un ¡no! severo. \n
+Pero hay que recordar, que el castigo severo puede enseñar al perro a: -evitar la eliminación posterior en ese lugar, o -evitar la eliminación posterior en ese lugar cuando el dueño está presente, o -evitar la eliminación en presencia del dueño. Sólo se debe pensar en el castigo si el dueño observa que el cachorro empieza a eliminar en casa. Una pistola de agua, la sacudida de una lata o un adiestrador audible...son preferibles a las técnicas físicas o incluso a las represiones verbales, ya que es menos probable que provoquen miedo del dueño. Además, si es posible que el dueño no esté vsible en el momento del castigo, el animal puede aprender a dejar de eliminar en la zona tanto si aquél está presente como si no lo está. Nunca debe usarse un castigo que provoque miedo al perro. \n\n
+RESUMIENDO: - Enseñar al perro a dónde ir, recompensando la eliminación en el lugar apropiado.Tan pronto como elimine, darle una recompensa social (caricias,...) o de alimento .
+\n
+- Usar una vía directa hacia una sola zona conveniente al aire libre. El olor y lugar pueden servir para estimular la eliminación posterior en el sitio oportuno. - Esperar a las señales previas a la eliminación tales como el olfateo, las vueltas en círculo y, cuando se observan, llevarlo al sitio correcto rápidamente.
+\n
+- Siempre que no se pueda vigilar al cachorro de cerca, se debe encerrar.
+\n
+- Al principio, se debe sacar al cachorro al aire libre con mucha frecuencia y sobretodo después de las comidas, después de beber, etc..Si el perro ya no es un cachorro, otro método consiste en sacarlo y no volver a casa hasta que haya hecho sus necesidades. En este caso, si vuelven a casa sin que lo haya hecho, se debe vigilarlo muy de cerca (atarlo a una cuerda para restringir sus movimientos, etc) y tan pronto como sea posible volver a la calle y no regresar hasta que lo haya hecho (y siempre recompensarlo)
+\n
+- El único castigo permitido es una reprensión verbal ligeramente sobrecogedora durante el acto de eliminar en el sitio incorrecto. Evitar el castigo físico porqué puede aprender:" no hacerlo delante del dueño, per sí cuando él no esté".\n
+- Cualquier zona de la casa donde el animal haya eliminado debe ser limpiada perfectamente, intentando neutralizar su olor. El perro debe entender que recibirá recompensas valiosísimas siempre que elimine fuera de casa. \n\n
+
+    </string>
+    <string name="cama">
+        El rincón de reposo de los animales domésticos de compañía debe reunir una serie de características especiales, de forma que el descanso cumpla la doble función fisiológica y psicológica que el animal necesita. Es evidente que un perro puede dormir en cualquier lugar, y desgraciadamente en muchas ocasiones los animalitos ni siquiera disponen de una mínima protección a cubierto de las inclemencias climáticas donde descansar tranquilos. \n\n
+Independientemente de la raza y el hábitat en que se desenvuelva la actividad de nuestro perro: departamento de ciudad, jardín o casa de campo, debe asignársele un lugar fijo, tranquilo, protegido y aislado, que constituye su más íntimo refugio. \n
+En este rincón deberá situarse la cama, cuna, colchoneta o alfombra lavable que le sirva de lecho. Cuna, moisés o colchoneta.\n\n
+Generalmente nuestro perro comienza a formar parte de la vida familiar cuando todavía es un gracioso, desvalido y pequeño cachorro de uno o dos meses de edad. Su tamaño y la ternura que despierta suelen ser causas de frecuentes errores de cálculo, nada graves por otra parte, ya que sólo inciden en algunos despilfarros económicos innecesarios\n\n.
+Es necesario prever anticipadamente cuál será el alojamiento definitivo de nuestro irracional amigo y desde luego, el tamaño aproximado que alcanzará al llegar a la edad adulta. No es igual, lógicamente, alojar provisionalmente un cachorro de San Bernardo o de Pastor Alemán.
+La mayoría de los perros cohabitan con sus amos en el interior de la vivienda y se les asigna un lugar para el descanso.\n
+La cesta, cuna, cama o colchoneta serán elegidas en función del tamaño definitivo del animalito, los perros de pequeño tamaño, considerados de compañía, prefieren las primeras, mientras que los terriers, razas de caza, lebreles y razas de guardería, defensa y utilidad prefieren la cama y colchoneta, como las representadas en la imagen. Siempre que en la habitación elegida para que el perro duerma no haga un frío excesivo o existan humedades antihigiénicas, es suficiente proporcionar al animal una alfombra, suficientemente amplio de un tapiz viejo o desechado, fácilmente lavable. El emplazamiento de la cama, cuna o colchoneta será fijado desde el primer día y no es conveniente cambiar frecuentemente este lugar, que el ani mal considerará como su dormitorio. \n\n
+Cuando el perro, generalmente cachorro, lleqa a casa, se altera la vida familiar, todo son visitas, mimos y cuidados para el nuevo huésped que, sin embargo, suele estar desconcertado, triste y acobardado por haber sido separado de su madre y hermanos, del ambiente al que estaba habituado desde su nacimiento. Mientras que se encuentra rodeado de sus nuevos amos el perro no demostrará su miedo o su pena, lo más probable es que al dejarlo sólo por la noche, en el rincón asignado, no quiera quedarse en él y pretenda dormir junto a sus dueños. Es imprescindible no ceder por bondad o compasión a este primer capricho del animalito, pues si posteriormente queremos alejarlo de nuestro dormitorio su psicología primaria no comprenderá más que un rechazo injustificado por parte de los seres a los que adora, sus amos.\n
+La limpieza de la cama: las colchonetas, cestas o alfombras deben ser fácilmente lavables, para estar en perfectas condiciones higiénicas. Al mismo tiempo, no son recomendables los modelos con hendiduras o rincones difícilmente accesibles, que pueden convertirse en nidos de suciedad o refugios de parásitos externos. \n\n
+    </string>
+    <string name="correa">
+        El uso de una correa que permita sujetar al perro, sobre todo en las razas de defensa, viene de épocas muy antiguas, como medida de seguridad que hacía posible controlar a los celosos guardianes, protegiendo a familiares, amigos, personas no hostiles o animales inofensivos, la evolución en las relaciones entre los seres humanos y las diferentes razas caninas ha sublimado y potenciado el uso de este complemento, de forma que, hoy día, es una prolongación del brazo y la voluntad del hombre sobre su más fiel amigo. \n  \n
+        En muchos países las correspondientes ordenanzas municipales exigen que los perros caminen siempre con la correa y gobernada por sus cuidadores o propietarios. Estas normas son válidas para las áreas públicas o urbanas incluyendo parques y jardines comunes. Por una parte se intentan evitar accidentes, molestias y altercados entre perros belicosos, así como posibles agresiones a personas y objetos; también facilitan el gobierno de los animales que casi pueden "sentir", si están bien adiestrados, las órdenes de su amo por los leves movimientos de la correa de sujeción. \n  \n
+        <b>Tipos de correas:</b> La multiplicidad de modelos comercializados o "caseros" de este implemento son casi infinitos. Desde la clásica correa de cuero liso o trenzado, acorde con el buen gusto y las posibilidades económicas de cada propietario, hasta las "cintas de concurso" sencillas, planas y de diversos colores, existen modelos para todos los gustos y que se adecuan a funciones específicas o generales. \n  \n
+        Las correas de adiestramiento o mixtas de educación y paseo construidas con eslabones de acero inoxidable de diferente grosor y resistencia, según los ejemplares a que sean destinadas, son tal vez las más populares y versátiles en el ambiente cinofílico. \n
+        Suelen estar completadas con un collar "de ahorque" de mismo material, construido por eslabones lisos, que se deslizen bien, terminados en dos anillas de diferentes diámetros de forma que, haciendo pasar la menor por la mayor, se forma un collar que, sujeto a la cadena, se "cierra" sobre el cuello del perro cuando éste, por fogosidad o desobediencia propina un "tirón" brusco.\n  \n
+        La correa "extensible", de uso común y comercialización a gran escala, relativamente recientes, permite "soltar" varios metros de su longitud, dejando al animalito gozar de una relativa autonomía, para elegir los lugares más idóneos donde efectuar sus necesidades fisiológicas; para acortar la distancia, se ejerce una ligera presión sobre un mecanismo en la empuñadura que va "recogiendo" la cinta sin permitir que los centímetros recuperables en el pequeño aparato, pueden soltarse si no es por la expresa voluntad del dueño.\n  \n
+        La cinta de grupo permite sujetar, en un solo puño y con una sola correa, varios ejemplares simultáneamente, la más práctica y sencilla consiste en una cadena, generalmente de acero inoxidable, cuyo principio y final se unen en el pasador de muñeca mediante un mosquetón especial que puede "soltarse" con una ligera presión del dedo. Los ejemplares así trabados llevan una pequeña cadena desde el collar hasta una anilla que abarca la correa común. Al "tirar" los perros y accionar el mecanismo, se libera un extremo de la cadena que resbala dejando libres a los canes.\n  \n
+        Las cintas de concurso, generalmente débiles, realzan la belleza de los canes, no interfiriendo en la observación de sus perfectas proporciones. En la mayoría de las exposiciones, los ejemplares más peligrosos o agresivos son autorizados a "pasear", con correas, mucho más sólidas.\n  \n
+    </string>
+    <string name="cucha">
+        Muchos perros todavía disfrutan de una vida al aire libre, que les permite gozar de una existencia en semilibertad en una chacra, o en el jardín de una vivienda familiar. Estos animales, generalmente de buen tamaño, deben tener un lugar seco, limpio y relativamente abrigado donde descansar y refugiarse de las inclemencias climatológicas. \n  \n
+        En un porcentaje bastante elevado, los propietarios de estos perros prefieren que entren en la casa, en el zaguán, la cocina o en cualquier otro aposento, incluso algún cobertizo, cochera,o garaje. En este último caso, deberá habilitarse un camastro elevado en un rincón protegido, ya que, en contra de lo que pudiera parecer, es menos confortable para un perro alojarse o pernoctar en un cobertizo grande que en un pequeño recinto que se templa con el propio calor del animal, la "cucha" como refugio diurno u hogar permanente.\n  \n
+        La "cucha" debe cumplir una serie de requisitos mínimos de emplazamiento y estructura. El volumen útil interior de la construcción debe ser el mínimo para permitir los movimientos mínimos del animal y el confinamiento voluntario en su interior durante, algunas horas, siendo acorde con las dimensiones del huésped. El suelo estará elevado del nivel del terreno un mínimo de 10 cm y construido sobre una pequeña base de cemento que asegure un perfecto aislamiento de las posibles humedades. \n  \n
+        De ser posible, el piso de la construcción presentará un ligero declive, canalizado, con la parte más baja situada en la única puerta de acceso. De esta forma, se asegura una cómoda limpieza e higiene interior que permite evacuar el agua de lavado, sin retener las suciedades ni la humedad en la perrera. Los muros laterales o paredes, de la casilla serán de ladrillo o madera doble con una capa aislante intermedia y enduídas interiormente de forma tal, que sean completamente lisas, sin recovecos, y pintadas con pintura sintética de color blanco.\n  \n
+        El techo, a dos aguas si esta vivienda canina está aislada, o con una sola vertiente si se construye adosada a un edificio, debe ser desmontable, sobre unas guías de acero inoxidable o perfiles de aluminio anodizado, para deslizar el techo cada vez que se realice una limpieza higiénica de la casilla. Sin embargo, esta convertibilidad no supone un deficiente aislamiento de la techumbre, que permita la circulación de corrientes de aire o la eventual permeabilidad al agua de la lluvia o de licuación de la nieve.\n  \n
+        La orientación de la puerta se fijará preferentemente al sur, siempre protegida de los vientos o fríos más violentos. Puede colocarse una tela de bolsa arpillera u otro género, a modo de cortina que asegure durante el invierno la conservación de una temperatura óptima para el animalito.
+        Actualmente se utilizan "cuchas" estacionales, prefabricadas, construidas en materiales ligeros o veraniegas que no requieren, lógicamente, los mismos requisitos de estanqueidad y aislamiento que las tradicionales, permitiendo el alojamiento canino en un ambiente natural durante las etapas más benignas. \n  \n
+    </string>
+    <string name="accidentes">
+        <b>El perro y el automóvil: </b>Según las últimas estadísticas, más de 70 por 100 de los traumatismos y lesiones sufridos por los perros que no están aislados en chacras rurales, son originadas por accidentes de tráfico que en muchas ocasiones tienen consecuencias mortales para los perros y en un elevado porcentaje también pueden amenazar la integridad física e incluso la vida de los seres humanos.
+    \n  \n
+        Motocicletas, automóviles y camiones de gran tonelaje recorren ciudades y carreteras contribuyendo al equilibrio de las sociedades industrializadas y al desarrollo de la vida moderna.
+    \n
+        ¿Quién no ha sufrido con sus propios perros una experiencia de esta clase? ¿Quién no ha visto o experimentado con harta frecuencia el atropello de un can o ha contemplado el despojo sanguinolento que, como mudo testigo, queda en una cuneta?
+       \n  \n
+        En todos los casos, los perros no son culpables de nada. Son sus propietarios y la sociedad que permite el abandono canino o la proliferación de animales vagabundos quienes deben asumir la responsabilidad de hechos tan graves.
+        \n  \n
+        <b>El perro en la calle:</b> El instinto natural de cualquier perro, sea de raza o mestizo, no le predispone a considerar las vías urbanas o interurbanas corno zonas de alta peligrosidad.
+        La obligación de los propietarios de llevar a sus "pupilos" siempre sujetos por la correspondiente correa no es una medida arbitraria de las autoridades que siempre velan por el bien de sus administrados. El adiestramiento básico de obediencia, así como el estricto cumplimiento de las normas legales asegurará una protección suficiente contra la mayoría de los accidentes de circulación que tienen como causa o protagonista la figura del perro.
+        \n  \n
+        Mediante la disciplina, con una orden verbal, el amo puede "congelar" el movimiento de su perro que escapa tras algún congénere del recinto ajardinado, en donde se divierte, y la sujeción a la correa durante el paseo por la calle impide la escapada.
+        \n  \n
+        <b>El seguro canino:</b> A pesar de todas las precauciones obligatorias aconsejables puede surgir el accidente. ¿Sabemos las consecuencias legales que pueden derivarse de los actos de nuestro perro? En muchas ocasiones desconocemos toda esta problemática legal, pero el desconocimiento de la ley no ex¡me su cumplimiento y podemos encontrarnos demandados y condenados al pago de elevadas sumas de dinero. Hoy día, casi todas las compañías de seguros, ofrecen pólizas caninas, cuya cuantía está al alcance de todas las economías cubriendo elevados riesgos potenciales.
+        \n  \n
+        Los riesgos cubiertos varían desde los daños producidos en ropas o enseres por agresiones directas, a los producidos por siniestros de circulación originados por el perro "asegurado", e incluso los gastos de fianza de¡ propietario virtualmente acusado de negligencia criminal. Aclaración: No disponible en todos los países.
+        \n  \n
+        <b>Perros abandonados:</b> Al final del verano, se producen en las inmediaciones de las grandes ciudades turísticas, "abandonos masivos" de perros que impiden a sus crueles amos el regreso a casa de las vacaciones "sin problemas" con la mascota que adquirieron para que los niños se diviertan durante las vacaciones o que han dejado de ser útiles para la actividad que fielmente sirvieron a sus despiadados dueños. ¿Cómo acabar con esta crueldad y este peligro potencial? ¿Qué medidas ha de tomar la sociedad y las autoridades pertinentes?... Dejemos estas cuestiones planteadas y apelernos a la conciencia de aquellos que no conocen al perro como su mejor amigo.
+         \n  \n
+    </string>
+    <string name="marcaje">
+        Los principales responsables de esta conducta son los andrógeno s. Por eso, será un problema típico de los machos adultos. No obstante, algun perro joven también puede hacerlo, al igual que algunas hembras (generalmente durante el celo). Generalmente serán micciones cortas y en sitios particulramente destacados. \n  \n
+        Los estímulos olfativos por las micciones de otros machos en estos sitios, pueden desencadenar esta conducta.\n  \n
+        Se tendrá que diferenciar de:\n
+        -problemas orgánicos, como enfermedad es que pueden desencadenar alteraciones en la cantidad de orina o en las micciones, o incontinencia urinaria.\n
+        -problemas sin causa orgánica\n
+        -falta de aprendizaje (es una causa frecuente). \n
+        -pérdida del aprendizaje, principalmente en animales viejos. A veces, asociado a otros problemas como incontinencia, alteraciones locomotoras, etc... \n
+        -ansiedad por separación \n
+        -fobias \n
+        -sumisión extrema. En este caso no hay que castigarlo nunca porqué sería contraproducente. La persona o propietario debe actuar intentando no desencadenar dicha conducta. \n
+        Existen varias posibilidades de tratamiento: \n
+        -la castración tiene una efectividad del 60-70%\n
+        -tratamiento farmacológico con progestágenos (tiene ventajas e inconvenientes)\n
+        -tratamiento farmacológico con ansiolíticos (generalmente es poco eficaz a diferencia del gato).\n
+        -colocar comida (si es posible) en estos sitios donde marca.\n  \n
+    </string>
+    <string name="unperrobiencuidado">
+        Para que sea feliz y tenga buena salud, no basta con quererlo mucho . . . Es preciso aplicar una serie de normas de higiene, de alimentación y ciertas medidas de educación que aquí enumeramos.\n  \n
+       <b>1) </b>Muchos cachorros sufren de las ya conocidas enfermedades: moquillo, hepatitis canina y parvovirus. Enfermedades contagiosas que afectan a sistemas y aparatos fundamentales para la vida. Lo que se debe hacer para que los animalitos no contraigan estas enfermedades es un plan de vacunación a partir de los cuarenta y cinco días y no a partir de los tres meses como es creencia popular.\n  \n
+        <b>2) </b>Los cachorros, de cualquier especie, necesitan una alimentación sana, abundante y nutritiva. Debe estar relacionada según su raza, su talla y peso. Comerá por lo menos tres veces diarias y cuando sea adulto una o dos veces.\n  \n
+        <b>3) </b>Los perros no beben mucho en cada ocasión, por eso tienen sed con frecuencia. Habrá que tener a su disposición un recipiente con agua fresca.\n  \n
+        <b>4) </b>Hay que brindarle la posibilidad de salir de casa para que juegue y olfatee, como es su gusto. El paseo diario hay que aprovecharlo para su adiestramiento, para que haga ejercicios pero no forzarlo demasiado porque un exceso de carreras con el tiempo puede tener problemas articulares. También es recomendable que el perro nunca ande suelto en la calle aunque sea por un ratito por varias razones: lo puede pisar un auto, robarlo, intoxicarse, rompe bolsas de basura, hace pozos en el jardín del vecino, se junta con otros perros vagabundos que le pueden transmitir parásitos y enfermedades, etc. Por eso es recomendable sacarlo a pasear siempre con correa y collar y nos evitaremos los problemas mencionados anteriormente.
+        <b>5) </b>El aseo es fundamental, la frecuencia de baño debe ser cada 15 días o un mes, antes de los tres meses se puede bañar pero hay que tomar precauciones, bañarlo, secarlo y dejarlo adentro como mínimo 12 horas para que se seque en forma adecuada. Hay que utilizar shampúes para perros o un shampoo neutro de humanos, también se puede lavar con jabón blanco en pan o de glicerina.\n
+        Pero lo importante es cepillarlo con frecuencia, pues esto evita la acumulación de residuos epidérmicos y de suciedades, además hay una mejor oxigenación de la piel evitando enfermedades de la misma.\n  \n
+        <b>6) </b>Nunca hay que olvidar que un perro prefiere, antes que la comida y bebida, las caricias de su amo. Si éste quiere educarlo bien, demostrará un afecto enorme cuando es cachorro; es esencial para la educación que habrá que seguir, pero hay que mantenerse firme cuando se le da una orden. Resumiendo: para la educación de su perro hay que tener en cuenta lo siguiente: dulzura, paciencia, insistencia, continuidad en las ideas, autoridad, competencia y . . . . tiempo.\n  \n
+    </string>
+    <string name="vacaciones">
+        Curva va, subida viene... el perro, mareado, ha vomitado sobre el asiento de atrás, y todo está sucio. El automóvil es su peor enemigo, y toda la familia se asusta con la sola idea de viajar con él. ¿Qué hacer ? \n  \n
+        Por suerte una vez que el animal se ha acostumbrado a permanecer en el interior del automóvil en movimiento, todo va a andar bien. Sin embargo, hay ciertos animales que desarrollan una verdadera fobia a los coches, ómnibus, etc. Normalmente estos miedos se deben a malas experiencias, y la peor de todas es el mareo que les produce permanecer dentro de un vehículo en movimiento. \n  \n
+        Los perros menores de un año son bastante sensibles, y basta un leve vaivén para que comiencen a marearse y babearse. \n  \n
+        Al principio estos síntomas son imperceptibles, sin embargo, a medida que pasa el tiempo y aumenta la velocidad del coche, los males se acentúan, pudiendo permanecer después de terminado el viaje. Generalmente se cree que no darles agua ni comida antes y durante el trayecto evitará los mareos. Sin embargo, no es así; el animal lo pasará igualmente mal, aunque no ensuciará tanto el coche en caso de vómito. Lo ideal es recurrir al veterinario, pués existe ciertos comprimidos o líquidos que disminuyen los efectos del viaje. \n  \n
+        <b>Objetivo: Perder el miedo</b>
+        \n  \n
+        Es importante que el animal pierda el miedo cuanto antes, de subir al coche. Le daremos comida que a él le guste dentro del auto apagado, y de esta manera él investigará cada recoveco del auto. Esto es aconsejable repetir varias veces hasta que se de cuenta de que no hay nada que temer. Cuando el perro parezca tranquilo lo llevaremos a dar paseos cortos que se harán cada vez mas largos. Conviene también alternar paseos cortos con caminatas, de manera que asocie el automovil con cosas agradables, y no solo con las visitas al veterinario. \n  \n
+        <b>Consejos para viajar sin riesgos</b>
+        \n
+        No poner en marcha sin que el perro no haya hecho sus necesidades
+        Parar cada 2 o 3 horas para que el animal se estire un poco
+        Si el trayecto es largo, le tranquilizará comer algo cada 4 o 5 horas
+        Por precaución no permitir que el animal viaje con la cabeza fuera de la ventanilla \n  \n
+    </string>
+    <string name="vitaminas">
+        Por lo general se tiende a creer que los suplementos vitamínicos y minerales no pueden dañar el organismo canino, sino que, por el contrario, le ayudan a librarse de enfermedades. \n
+        Grave error. Se trata de compuestos que el cuerpo debe recibir solo en su justa medida, y los excesos podrían tener consecuencias fatales para la salud del animal.\n  \n
+        - La fibra permite adelgazar sin riesgos. FALSO!! \n  \n
+        La fibra regula el ritmo con el que los alimentos se mueven en el intestino, y si se suministra demasiada cantidad, es posible que adquiera tal velocidad que algún nutriente no pueda ser asimilado, con lo que aparecerán carencias. Además los ejemplares con insuficiencia renal no deben ingerir mucha fibra, puesto que se trata de un alimento que absorbe mucha agua.\n  \n
+        - Las pastillas de calcio ayudan a crecer fuerte. FALSO !! \n  \n
+        Los cachorros no poseen ningún mecanismo para protegerse del exceso de calcio: un aporte extra solo logrará causar desequilibrios, incluso una degeneración del sistema óseo. A su vez dificultará la absorción del zinc y magnesio, con lo que crearán deficiencias de ambos minerales, aunque sean suministrados en cantidades necesarias. Si el cachorro recibe una alimentación completa, a base de alimentos balanceados premium, específicos para su edad, la suplementación del calcio, quedará a cargo de indicación profesional.\n  \n
+        - Cuantas más vitaminas, mejor. FALSO!!\n  \n
+        El exceso de vitaminas podría ocasionar mas problemas que su carencia. Existen algunos complejos (B..C..) que se eliminan por la orina. Sin embargo, no sucede lo mismo con los grupos que se disuelven en grasas (A,D,E,K.), cuyo exceso se acumulará en los tejidos, pudiendo alcanzar niveles tóxicos para el organismo. Es muy poco aconsejable dejarse llevar por creencias populares e intentar remediar los males del animal con aportes descontrolados de vitaminas, ya que el cuerpo reaccionará con diarreas, debilidad, alteraciones del esqueleto....\n  \n
+        - En el invierno hay que suplementar la alimentación. FALSO!! \n  \n
+        Es cierto que en invierno los perros necesitan una mayor cantidad de energía, ya que cuando hace frío el organismo exige mas combustible para mantener estable su temperatura interna y afrontar sin riesgo las bajas temperaturas. Sin embargo, esta energía no debe suministrarse en forma de comprimidos, sino de alimento. Lo ideal será incrementar un cuarto la ración diaria, o pasar para una alimentación con mas energía-, él lo agradecerá y su organismo también.\n  \n
+        Pero !cuidado!, esta norma no se puede aplicar a ejemplares de tamaño pequeño, y que vivan en apartamentos con calefacción.
+        -Durante la lactancia, la madre necesita un extra de vitaminas y minerales. VERDADERO !! \n  \n
+        Durante la gestación, el organismo de la hembra funciona a pleno rendimiento, y cuando tiene lugar el parto comienza otra etapa estresante y agotadora: la lactancia.\n  \n
+        Es un período de desgaste, sobre todo cuando la camada ha sido numerosa. Las reservas de la perra se van en la producción de leche y se hace imprescindible, por tanto , ayudarla con complejos vitaminicos y minerales (calcio fundamentalmente). También convendrá alimentarla con alimentos especiales o comidas para cachorros, mucho mas energéticos que los convencionales.\n  \n
+    </string>
+    <string name="bañar">
+        Quienes nos dedicamos a la dermatología canina y felina escuchamos a diario esta pregunta;¿Cada cuánto debo bañar a mi perro? y a ciencia cierta esta pregunta admite tantas respuestas , como condiciones de salud posea la piel y el manto piloso de la mascota.\n  \n
+Es vox populi que el bañar muy seguido a un canino le quita su  capa de <b>"grasa protectora"</b> que los animales tienen naturalmente sobre la piel.\n  \n
+En cierta forma esto es cierto:  Llos caninos poseen una capa de lípidos formada por Escualeno, Ceramida, Ésteres de la cera y Colesterol. En condiciones de salud, esta capa protectora cumple las funciones de proteger la piel, dar brillo y sedosidad al manto piloso e impedir que el animal contraiga enfermedades externas en su piel.\n  \n
+Pero también es cierto, que estos animales sanos se ensucian y adquieren el clásico "olor a perro" , que muchas veces dependerá del tipo de pelaje que tengan.\n  \n
+ Así, los perros de pelo largo (Golden Retriever, San Bernardo, Collies, Setter, etc) necesitan un baño periódico forzosamente en verano, dada su intolerancia al calor. Puede que el propietario considere esta situación inapropiada, pero el animal debe ser bañado, en principio para aliviar el calor y en segundo lugar para evitar que las bacterias que normalmente viven sobre su piel, tengan posibilidad de producir infecciones oportunistas. \n  \n
+No necesariamente deben padecer una afección dermatológica para ser bañados, lo consideramos un baño "higiénico" y debe realizarse cuando el olor del perro así lo indique. Mucho tiene que ver también la actividad física del animal: correr, jugar, revolcarse en la tierra. En caso de ser bañado, esas grasas protectoras se recuperan en 12 horas. Lo que sí es importante e imprescindible es el cepillado diario de estos perros de pelo largo.\n  \n
+Los perros de pelo corto parecen ser más resistentes a la suciedad y el mal olor. En ellos, el simple cepillado puede asegurar un pelo y piel sanos y vitales. Pero indefectiblemente, deben ser bañados cuando el olor a perro aparece y esto sucede, como en el caso anterior, cuando el animal se ensucia, realiza intensa actividad física, etc.\n  \n
+Si decidimos bañar a una mascota sana, se recomienda  usar shampúes suaves como los que contienen Cocobetaína y Avena en su composición.\n  \n
+Ahora bien: Cuando se presenta a consulta un animal con trastornos dermatológicos, ya sea infecciones, seborreas, micosis, etc.,  debe dejarse de lado el concepto de "baño higiénico" para reemplazarlo por el de "baño terapéutico".\n  \n
+El baño terapéutico, implica en general aumentar la frecuencia de los baños utilizando shampúes con productos terapéuticos en general más agresivos que los tradicionales: Sulfuro de Selenio, Alquitrán, Clorhexidina, Peróxido de Benzoilo, etc.\n  \n
+Estos baños terapéuticos suelen prescribirse con frecuencias de hasta 48 hs., porque la función  protectoras de estas grasas naturales se ha perdido completamente y los baños terapéuticos se indican para restituir la salud de la piel.\n  \n
+Entonces:¿ Los perros deben bañarse frecuentemente? Si están sanos se bañan cuando están sucios o para aliviar los efectos de las altas temperaturas ambientales, utilizándose shampúes suaves y cuando el animal presenta una patología de piel el baño frecuente con productos medicados se vuelve imprescindible.\n  \n
+Concluímos en que el dueño de una mascota sana debe bañarlo cuando ésta está  sucia y debe llevarlo a la consulta, cuando considera que su animal está necesitando baños mucho más frecuentes de lo habitual.\n  \n
+Este animal alergico requerira baños mas frecuentes.\n  \n
+    </string>
+    <string name="vacunacion">
+        La vacunación es uno de los pasos más importantes en la prevención de las distintas enfermedades infecciosas que pueden padecer nuestros ueridos perros.\n  \n
+Su médico veterinario será el encargado de determinar la edad, la estrategia y el cronograma de vacunación que obtenga la mayor protección inmunológica para su mascota, de todas maneras, ublicamos un cronograma tentativo que deberá utilizarse solo como una guía para tal fin.\n  \n
+En épocas de epidemia, suelen indicarse refuerzos adicionaleso vacunas no listadas en el cuadro. Para interpretar correctamente este calendario le recomendamos leer el articulo de plan de vacunación. \n  \n
+A la par de nuestro plan de vacunación debemos desparasitar a nuestro cachorro, prácticamente todos los cachorros nacen con parásitos, ellos pueden infestarse a través de: la placenta de la  madre y por medio de la leche durante la lactancia. \n  \n
+El momento ideal para comenzar nuestro plan de desparasitación es a  las 2-3 semanas de  edad, utilizando un producto de uso veterinario y  exclusivo para cachorros, previa  recomendación del médico veterinario.\n  \n
+    </string>
+    <string name="desparacitar">
+        <b>Cachorros</b>\n
+El tratamiento se inicia a los 21 días, repetir a las 4, 6, y 8 semanas de edad y con cada revacunación, luego cada 4 meses, si hay riesgo de reinfestación en el lugar o no se tiene un control adecuado sobre el animal se recomienda cada 2 meses. \n  \n
+<b>Perras</b>\n
+Es muy importante la desparasitación antes del servicio, porque el aumento de estrógeno (la hormona del celo) libera larvas de áscaris que en los perros adultos están enquistadas en los tejidos, por eso en la preñez migran a través de la placenta, infestando a los cachorros. Luego se debe desparasitar junto a los cachorros y se sigue el plan para un perro adulto. \n  \n
+<b>Perros adultos</b>\n
+Cada 4 meses, si hay riesgo de reinfestación en el lugar o no se tiene un control adecuado sobre el animal se recomienda cada 2 meses. También es importante mantener limpio, evitar que entren animales extraños y desinfectar en forma periódica el medio donde el animal se encuentra. \n  \n
+<b>Incorporación de nuevos animales</b>\n
+Es importante al adquirir un nuevo cachorro exigir la libreta sanitaria con el detalle del plan sanitario, para que el profesional actuante tenga una orientación con respecto al estado sanitario del animal aparte de la revisación clínica.\n  \n
+    </string>
+    <string name="edadcollar">
+        Debe colocarse el collar al cachorro cuanto antes, generalmente a los 2 1/2 meses de edad, al principio le molestará y se rascará o sacudirá la cabeza, pero pronto se acostumbra sin ningún tipo de problemas, en todo caso si está muy molesto con el collar, se lo retira por un tiempo y se lo vuelve a colocar de a ratos hasta que se habitúe a usarlo. \n  \n
+Hay tres tipos básicos de collares: los collares con hebilla, collares de ahorque y collares con púas. \n  \n
+Los collares con hebillas son los recomendados para cachorros menores de 4 meses y es el único collar que están seguros mientras no son controlados. \n  \n
+Los perros mayores de cuatro meses es útil el collar de ahorque para el adiestramiento y, en los casos extremos, sí el perro es muy fuerte y difícil de interpretar las órdenes un collar con púas, pero éste se usa generalmente para proteger el cuello por eventuales peleas con otro animales, pero si es cuidado como corresponde y sacado a pasear por su tutor con collar y correa, no deberían ocurrir este tipo de peleas. \n  \n
+Su cachorro aceptará el collar y la correa más rápidamente si se le enseña a usarlos en forma gradual. Hay que empezar tirando suavemente de la correa dentro de la casa alrededor del patio, también hay que dejarlo andar solo y caminar junto a él, cuando da la vuelta tomar suavemente la correa y caminar con él. Cuando él se da vuelta, sígalo, entonces suavemente recoja la correa y camine con él, cuando lo hace y tiene la correa en la mano y él camine, háblele y anímelo en forma amistosa a caminar pero sin tirar bruscamente. \n  \n
+En esta etapa no hay que buscar la perfección en el andar y obediencia, la meta es, simplemente, conseguir que el cachorro se encuentre cómodo con el collar y la correa y camine sin resistencia. Sí empieza a tirar hacia adelante, suavemente invierta su dirección y haga un ruido para distraer al cachorro, ninguna orden verbal debe usarse durante esta introducción, solamente se trata de que el cachorro se acostumbre al peso del collar y la correa y que los acepte gustosamente, sin resistirse. \n  \n
+El tamaño del collar se debe ir adecuando a la edad e ir cambiándolo a medida que el cachorro crece hasta el tamaño definitivo que llevará cuando sea adulto. \n  \n
+    </string>
+    <string name="hacernecesidades">
+    Si el perro va a vivir dentro de la casa, se tendrá que educar al cachorro para que "pida" cuando tiene ganas de hacer sus necesidades fisiológicas. No es difícil, no hay necesidad de castigar y el entrenamiento no toma mucho tiempo si se tiene un poco de paciencia y se realiza correctamente. Tener en cuenta que: \n  \n
+1) Si no se sorprende al cachorro en el momento de la "falta", es inútil reprenderlo o castigarlo!!, esta regla es la más importante.  \n  \n
+2) Cuando lo hace en el lugar correcto hay que felicitarlo con un !muy bien! ¡muy bien! \n  \n
+<b>Métodos de educación </b>
+<b><i>1er método:</i></b>  Hay varias maneras para educar al cachorro. Una de ellas es poner papeles de diarios sobre el lugar donde orinó el animal, dejar que se absorba y se seque, luego se coloca el diario en el lugar donde se desea que el cachorro haga sus necesidades, al sentir el olor a su propia orina se estimulará al cachorroa hacerlo allí , a todo esto tenemos que agregar el manejo de la fisiología del animal, generalmente después de comer, tomar agua o dormir hacen pis o caca, podemos identificar esa actitud cuando olfatean el piso, gimen y dan vueltas, en ese momento hay que llevarlos al área indicada donde se encuentra el papel de diario para que realice sus necesidades y alabarlos con un ¡muy bien!. También existen unos papeles especiales de venta comercial que cumplen la misma función que el "método casero" del diario. \n  \n
+Cuando se logra que hagan solos en el lugar indicado, se van corriendo los papeles, cada vez más lejos y hacia afuera, hasta llegar al patio donde hay tierra o donde se quiere que el animal deposite sus residuos fisiológicos.
+La transición se puede hacer en forma alternada una deposición adentro y otra afuera, hasta que se eliminan todos los papeles dentro de la casa y para esa época él solo pedirá ir hacia el patio. El único problema con este método es que el animal elimina dentro de la casa por un período de tiempo. \n  \n
+<b><i>El segundo método</i></b> es el de la jaula: Se utiliza una jaula de confinamiento. El fundamento es que el perro se coloca en una jaula amplia y a ellos no les gusta mojar su propia cama y por consiguiente retienen más tiempo sus necesidades, generalmente los cachorros de 8 o 9 semanas durante 7 u 8 horas, por supuesto no hay que dejarlos más tiempo, entonces pasado un periodo prudencial se los lleva afuera y se los estimula como en el método anterior. \n  \n
+Durante el aprendizaje, cuando el cachorro está dentro de la casa pero no se lo puede controlar ya sea porque se está haciendo alguna tarea como cocinando, leyendo, cuidando los niños o fuera de la casa, se lo coloca dentro de la jaula, pero antes de colocarlo allí, se llevará a su lugar favorito o el indicado, y lo primero que se hace cuando se lo saca de la jaula se lo lleva nuevamente al sitio indicado para hacer sus necesidades.
+No se le administra comida o agua mientras está dentro de la jaula, solamente una manta y juguetes para que se entretenga, durante la noche permanecerá en la jaula, previamente antes de irse acostar se lo deberá llevar al lugar adecuado y estimularlo para que haga sus cosas. \n  \n
+Aunque hay personas que le desagradan este método, por el hecho de encerrar al cachorro en una jaula, es el más efectivo y rápido para su aprendizaje, además enseña al cachorro a controlar sus esfínteres por más tiempo cuando tiene  necesidad de orinar o defecar, se piensa que esta es la razón principal por el cual este método permite menos errores y el animal se acostumbre más fácilmente a realizar sus necesidades en el área elegida. \n  \n
+La jaula debe tener el tamaño adecuado, aunque sí el perro en la edad adulta tendrá una contextura de pequeño a mediano, es interesante que la jaula pueda ser útil en el futuro para transporte o convalecencia de alguna enfermedad, pero si la jaula es demasiado grande el cachorro orinará adentro, o sea lo ideal es que tenga una división para usarla cuando es pequeño y luego, sin la división, en el futuro. \n  \n
+Es muy importante usar la jaula con división sí es demasiado grande para el tamaño del cachorro, porque si se usa una jaula grande sin división, el animal ensuciará en una esquina, es probable que luego pise sus propias necesidades, y si esto sucede el método se vuelve totalmente contraproducente, el animal olvidará su propio instinto de no ensuciar su propia cama y el cachorro tomará como hábito orinar o defecar en un rincón de la jaula, entonces el proceso de educación se convierte en un problema de conducta, porque toma esos hábitos higiénicos como algo normal. \n  \n
+<b><i>El último método:</i></b> es el de la vigilancia constante, en este caso no se necesitan papel de diario, papeles especiales o jaula, pero se necesita tiempo y estar en forma permanente con el cachorro, este método es ideal para aquellas personas que trabajan en su casa o personas jubiladas o en situaciones dónde los dueños siempre están con el animal. Siempre hay que estar atento y cuando el cachorro empieza a dar vueltas, olfatear el piso o gemir, hay que sacarlo enseguida afuera y llevarlo al lugar indicado, hay que vigilarlo en todo momento y hay que evitar el "error" de que haga adentro.\n  \n
+Este método tiene más margen de error que el de la jaula porque el animal no reprime en ningún momento sus deseos de orinar o defecar, ni tampoco hay papeles que lo estimulen a ir a un lugar determinado. En caso de notar en el cachorro el deseo de hacer sus necesidades, se lo lleva afuera, y si hace bien se lo felicita y se lo trae en forma inmediata adentro, para que el relacione que cada vez que va a fuera es para hacer sus cosas, en esos momentos hay que evitar el juego o quedarse demasiado tiempo con el animal. Este es un método bueno para aquellas personas que tienen tiempo, igual se recomienda usar la jaula si tienen que ausentarse de la casa. \n  \n
+Las órdenes verbales específicas también ayudarán a transmitir lo que se desea. Hay que usar una sola palabra que identifique el acto de "ir al baño" por ejemplo "afuera" y es importante que toda la familia use la misma palabra y con el mismo tono y no usarla como una pregunta si no como una orden, algunos perros pueden tomar el hábito de ir a la puerta cuando ellos quieren ir afuera, esto es bárbaro cuando pasa pero no es tan común como se cree. Se sugiere insistir con éstas órdenes verbales para estimularlo a ir afuera y que no aprenda solo, de esta manera se logra mucho más fácil el objetivo de que salga al exterior. \n  \n
+Una vez afuera se debe animar a que haga sus necesidades con la palabra "haga aquí" o algo similar y por supuesto, no olvidar nunca de felicitarlo con un ¡muy bien! ¡muy bien! si hace lo correcto, podemos usar la palabra "adentro" para darle la orden de ir hacia el interior nuevamente, es importante no usar la palabra "afuera" cuando se lo saque a hacer otra actividad como jugar, independientemente que el animal además de jugar haga sus necesidades, o sea la palabra "afuera" debe ser utilizada solamente para estimularlo a "ir al baño". \n  \n
+<b><i>Cuando ocurre un "accidente"</i></b>\n  \n
+Uno de los problemas más comunes es cuando ocurre la micción o defecación en el lugar inadecuado, esto es muy importante ¡¡Sí no se lo descubre en el momento que el cachorro esta haciendo sus necesidades, no hay que castigarlo ni reprenderlo!!, pero si se lo observa en el momento justo hay que decir con voz firme pero suavemente ¡NO! y llevarlo inmediatamente afuera o al lugar correspondiente, sí se encuentra un "accidente" y el cachorro ya lo hizo, se debe limpiar y olvidarse de él sin reprender al cachorro . \n  \n
+Reprenderlo no ayudará porque, a menos que no se lo atrape en el momento, el cachorro no entenderá porqué se lo reprende. Sí se llega a casa y se encuentran varias suciedades se deberán limpiarse sin regañar al animal, aunque hayan pasado 30 segundos del "accidente" el cachorro no comprenderá el reto, hay que condicionarlo siempre para el futuro, no entienden lo que hicieron en el pasado. \n  \n
+Sin embargo, enfrentémoslo, no será falta del cachorro, hay que estar atento cuando el animal gira en círculos, olfatea el piso o gime, puede haber pequeñas variaciones de un cachorro a otro pero casi siempre son los mismas actitudes antes de hacer sus necesidades. \n  \n
+Cuando se lo atrapa en la "acción", no hay que enojarse, rápidamente y sin levantar la voz se le dice serenamente ¡no! y hay que llevarlo hacia los papeles o hacia afuera. \n  \n
+El cachorro va estar un poco asustado cuando se lo acerque a los papeles o cuando lo lleve afuera por eso hay que acompañarlo y si realizan bien sus necesidades hay que premiarlo con un ¡muy bien!. \n  \n
+Volvemos a insistir sobre la primera regla, ¡no reprenda o castigue al cachorro si no lo descubre en el momento del "accidente"! \n  \n
+El castigo o reprimenda en forma inadecuada puede entorpecer el proceso de disciplina o adiestramiento de un animal, ellos consideran que hacer sus necesidades es algo normal, es difícil para ellos interpretar al principio que hacerlo adentro no es lo correcto, y sí además, se le aplica algún tipo de castigo el animal se puede volver nervioso y asustadizo. El hábito tan popular de educar al animal frotando la nariz sobre sus necesidades habiéndolo atrapado o no en el acto, es un método totalmente erróneo , hay que imaginar que si el animal tuviera un poco más de inteligencia, haría la relación de que cada vez que encuentra una necesidad debe ir al baño, entonces estaría permanentemente estimulado para eso!, ese tipo de castigo no acelera para nada el proceso de educación para que haga sus cosas en el lugar correcto, al contrario lo perjudica, a menudo sucede que el perro se pone nervioso cada vez que tiene que "ir al baño". \n  \n
+El caso más común de castigo es cuando se llega a casa y se encuentran con las suciedades del animal, muchas veces el tutor se enoja con el cachorro y lo castiga o reprende, el animal no relaciona el castigo con la "falta" de hacer sus necesidades, esto puede provocar que el animal se vuelva muy asustadizo y nervioso y al llegar los dueños de casa corra a esconderse, pero no por haber hechos sus necesidades dentro, sino para evitar que lo reprendan o castiguen, esta tipo de conducta aprendida puede permanecer toda la vida del perro. \n  \n
+La solución es permanecer, si es posible, el mayor tiempo posible en casa por lo menos los primeros siete días de enseñanza, de esa manera se disminuye notablemente el margen de "error" y el animal aprenderá enseguida, sin necesidad de reprender o castigar. \n  \n
+<b><i>Alimentación y enseñanza de "hacer" en el lugar adecuado </i></b>\n  \n
+El momento de administrar su ración es útil para el aprendizaje, debido a que después de comer y tomar agua desearán orinar o defecar y ahí se tiene la ventaja de saber el tiempo y el momento de estimularlo a que haga sus necesidades fisiológicas en el espacio indicado. \n
+Todo este proceso de enseñanza lleva un tiempo prudencial por eso se deberá tener mucha paciencia, no irritarse y no perder la calma cuando las cosas no salen bien, hay que tener en cuenta que un buen aprendizaje del animal será beneficioso para todos en el futuro. \n  \n
+<b><i>La micción espontánea o sumisa </i></b>
+Los cachorros pueden orinar espontáneamente cuando están contentos o reciben al tutor, se encuentran con otro perro, también sucede cuando están asustados. Se lo conoce como sumisión o micción de excitación , cuando esto sucede, hay que ignorarlo y limpiarlo inmediatamente, generalmente si se hace lo correcto entre los 5 a 7 meses este condicionamiento desaparecerá.\n  \n
+    </string>
+    <string name="ensenarvenir">
+        El objetivo de enseñarle al cachorro la orden de "venir" es tener un perro bien disciplinado que siempre obedezca, sin importar la situación o lugar donde se encuentre el animal, tanto para la seguridad de su perro como una mejor convivencia con sus congéneres.\n  \n
+Para enseñarle a que "venga" se necesita un collar y correa, ésta puede ser una soga fina o un cordón de unos 5 metros de largo, no empiece el entrenamiento hasta que el cachorro se acostumbre al collar. También, es importante elegir un tiempo para hacerlo, sin distracciones.\n  \n
+Hay que ponerse de pie a unos metros del cachorro y ejecutar unos pequeños y suaves tirones del cordón. Cuando él obedezca y se acerque, hay que acariciarlo y decirle "muy bien, muy bien", también se puede agachar y de esa posición animarlo a que venga.\n  \n
+En esta etapa, no se necesita darle ninguna orden verbal, porque el cachorro se confundirá. En todo adiestramiento, si se hace como corresponde, el perro obedecerá independientemente del llamado vocalizado. Los perros no entienden nuestras palabras, se les puede enseñar a entender pero no es un proceso natural o instintivo para ellos.\n  \n
+Repetir tirar-venir y siempre con alabanzas y felicitaciones. La primera lección debe ser apenas de unos minutos, el período de atención del cachorro es muy corto y nosotros queremos que las lecciones sean un momento divertido para el cachorro y su tutor.\n  \n
+Después de unas sesiones, el cachorro viene con más facilidad y hasta el tirón mas suave que se hace del cordón, el cachorro responderá viniendo hacia nosotros. Esto es exactamente lo que queremos. Dar premios (golosinas) no es necesario, pero efectivo en cachorros más reacios a aprender, en estos casos los premios ayudarán al entrenamiento.\n  \n
+Una vez que se está seguro de que el cachorro responderá viniendo hacia nosotros con el tirón más leve del cordón, se dice al mismo tiempo "venga" cuando se hace tracción del cordón. Simplemente decirlo una vez y no repetir. No levantar la voz. El cachorro asociará la acción con la orden verbal "venga" Repetir este proceso varias veces, y luego tratar de que se acerque solamente con la orden verbal, puede darse la orden y premiarlo con alabanzas del tipo "muy bien, muy bien", palmeando suavemente la zona escapular ("paleta"). Habrá casos en que el cachorro desafíe la autoridad, entonces será tiempo de volver a usar el cordón para recordar las lecciones aprendidas.\n  \n
+Hay que tener cuidado como se usan las órdenes en un ambiente donde hay muchas voces, probablemente el cachorro no escuchará cuando corre por el patio del vecino jugando con otro perro, y si además, hay personas hablando o niños jugando. \n  \n
+Gritando "venga, venga" en una situación así, el cachorro puede llegar a desobedecer el llamado. Hay que usar el sentido común al usar la orden de llamado y siempre asegurarse que el cachorro la escuche y obedezca. \n  \n
+También, es muy importante que el grupo familiar use la misma palabra para la orden de venir. No es conveniente que una persona diga "venga aquí, Boby", otra exprese solamente "venga" y otra diga "aquí, Boby" y esperan que el animal obedezca, eso sólo confundirá al animal y dificultará la obediencia. \n  \n
+"Venga" es la orden más importante que se le puede enseñar a un perro. Podría salvarle la vida.
+Además todos estarán orgullosos y encantados de tener un perro obediente y que responda a nuestro mando en forma inmediata. \n  \n
+    </string>
+    <string name="cuandodebosacarelcachorro">
+        Se lo debe sacar varias veces al día y en los siguientes momentos: \n  \n
+
+<b>*</b> Cuando él se despierta \n
+<b>*</b> Después de jugar \n
+<b>*</b>Después de comer y beber \n
+<b>*</b> Antes de ponerlo en la jaula \n
+<b>*</b> Siempre que se lo observe olfateando el suelo, girar, gemir u otras señales que indiquen que está punto de orinar o defecar \n
+La idea es sacarlo con la frecuencia que sea necesaria para evitar que haga sus necesidades dentro de la casa./n Esto puede no gustar, irritar o molestar, pero cada vez que él orina dentro de la casa, es un retroceso en la educación de sus hábitos. \n  \n
+    </string>
+    <string name="panico">
+La mayoría de los perros manifestarán un miedo considerado normal a un ruido fuerte producido por tormentas (truenos), fuegos artificiales, disparos de armas de fuego y otros tipos de ruidos estruendosos, ésta es una respuesta natural del animal que provoca una reacción de escape para evitar el "peligro". \n  \n
+En algunos casos, un perro responderá en forma impropia o excesiva frente a este tipo de estímulo con sonoridad violenta, a diferencia de una respuesta normal al miedo provocado por estas situaciones que protege al animal de un peligro potencial, la reacción fóbica o ataque de pánico (panic attack) no provoca en el perro un beneficio, sino al contrario un problema y un peligro a su seguridad, ya que en ese estado, el animal huye despavorido y puede en su escape descontrolado, golpearse, ser atropellado por vehículos, destruir elementos, lastimarse (por ej. al traspasar verjas, ventanas, puertas, mallas de alambre), desorientarse y no poder volver a su hogar, volverse agresivo hacia las personas, etc.\n  \n
+Esta conducta del perro puede ser influenciada por factores genéticos, hormonales, o eventos traumáticos. La fobia al ruido es más común en perros que carecen de una buena socialización temprana y habituación a este tipo de ruidos, algunas razas son más sensibles a las fobias que otras. \n  \n
+Generalmente, esta patología comportamental está asociada a otros problemas de conducta como la ansiedad por separación, miedo a personas extrañas u otros animales, agresividad por miedo, etc. Con el tiempo, las fobias tienden a empeorar si no son tratadas en forma profesional. \n  \n
+La respuesta del tutor (intentando calmar y tranquilizar, o el castigo por una conducta que es el resultado de la fobia) a las acciones del perro, estas medidas de corrección puede mejorar o empeorar el cuadro. \n  \n
+Los perros en un estado de ataque de pánico pueden tener temblores, jadeos, salivación, náuseas o molestias abdominales, escapar, destruir cosas, ladrar excesivamente, aullar o manifestar una conducta agresiva. \n  \n
+La mayoría de los perros que son afectados por las fobias provocadas por ruido responden a sonidos fuertes que incluyen: tiros por armas de fuego, tormentas, o fuegos artificiales. La reacción puede ser inducida por el sonido u otros factores que preceden al mismo. Por ejemplo, un perro puede mostrar miedo al ver un arma de fuego en un armario, porque el animal relaciona ese elemento (el arma) con un ruido fuerte que previamente ha visto disparar; o puede mostrar una conducta de deambular nervioso antes de una tormenta, porque capta con sus delicados sentidos los cambios de presión atmosférica. \n  \n
+El tratamiento a seguir en el ataque de pánico implica aplicar el estímulo desencadenante del miedo sin que el animal llegue a sentir éste. Difícil no?, y que significa este juego de palabras?, consiste en una desensibilización y contracondicionamiento donde el animal se expone en forma gradual al estímulo disparador del miedo o la fobia, sin llegar a desencadenar éste/a como respuesta.
+Como todo tratamiento conductual, en muchos casos el profesional en comportamiento animal, combina la corrección de la conducta indeseada con la farmacología correspondiente si estuviera indicada.\n  \n
+Los medicamentos naturales como el tratamiento homeopático y la acupuntura, normalmente, no producen los resultados deseados en los perros fóbicos, pero puede ser una alternativa adicional a un plan de modificación de conducta.\n  \n
+Algunos perros se tratan con ansiolíticos, que causan una sedación suave poco después de la administración (deben dosificarse 30-60 minutos antes de una tormenta o los juegos artificiales).
+Otros perros necesitan ser medicados diariamente, si la tormenta o los festejos duran varios días. \n  \n
+Pero el mejor y efectivo remedio para un perro fóbico es un programa de modificación de conducta; consultar con el Médico Veterinario y, si es necesario, que lo derive a un especialista en comportamiento animal para que evalúe al animal. El especialista podrá elaborar un plan adecuado para cada fobia en particular. \n  \n
+Los protocolos del tratamiento involucran insensibilización sistemática y contracondicionamiento. Un ejemplo de protocolo de tratamiento sería grabar el sonido de una tormenta y reproducirlo en un ambiente similar, puede ser oscuro y con lámparas que se prenden y apagan simulando los relámpagos y truenos, mientras en forma simultánea se alimenta al perro con algo agradable a su gusto, entonces asociará la situación con un alimento de su agrado, algo similar se puede hacer con otros tipos de estruendos, el período de entrenamiento puede llevar varias semanas o unos meses, pero el perro habrá aprendido que el ruido no representa un peligro.\n  \n
+    </string>
+    <string name="porquecucha">
+La domesticación del perro es un evento bastante reciente en la historia de los cánidos en la tierra. Aunque los cánidos salvajes han estado hace millones de años, hace solamente unos poco miles que son domésticos y conviven con el hombre, por esa razón todavía conservan algunas costumbres "salvajes" y una de ellas es el instinto de permanecer en algún momento del día en un lugar de aislamiento que puede ser su "cucha" u otro lugar de la casa donde se siente protegido. \n  \n
+Los caninos tienen un instinto definido para estar "protegidos" en un cubil o debajo de algo, si no tienen uno disponible harán uno propio, es común ver a los perros bajo algún mueble como mesa, escritorio, cama, auto, etc. Una de las razones que los perros hacen pozos es que quiere hacer una madriguera o refugio al cual siente como "su lugar propio". \n  \n
+Muchas personas detestan la idea de "enjaular" a su animal, justificando que es cruel y se le está quitando libertad, esto no es cierto, cuando un animal es educado con el método de la jaula, el mismo buscará con frecuencia entrar en la misma cuando está cansado o quiere permanecer solo, aislado y que nadie lo moleste, generalmente él recibe su comida cerca de la jaula, en ella tiene un buen acolchado y sus juguetes preferidos. ¿Qué perro no querría quedarse en un lugar con tantos lujos?!! Muchas personas dejan una jaula disponible para su perro para que él tenga su propio lugar para ir, la puerta siempre está abierta y el animal viene y va cuando él quiere. Para él no es una jaula de encierro, sino su cubil o "cucha" donde él se siente seguro y protegido. \n  \n
+
+Otras ventajas de la jaula: \n
+Seguridad para el perro y la casa: Teniendo al cachorro en una jaula se puede proteger la casa de la destrucción de zapatos, diarios, revistas, cortinas, y un largo etc, relacionada con la ansiedad por separación mientras se está lejos o no se lo controla. Sí el cachorro está habituado a que lo coloquen en la jaula, se sentirá cómodo en ella y sí se hace 15 o 20 minutos antes de salir, ignorándolo, él no notará la ausencia de sus tutores y es una muy buena educación para evitar la ansiedad por separación y los inconvenientes destructivos que trae este problema en el comportamiento del animal. También evita que el cachorro mastique cables eléctricos poniendo en peligro su vida o que ingiera cuerpos extraños que producen desórdenes u obstrucciones (a veces grave) en el aparato digestivo. \n  \n
+En un viaje, llevarlo en una canasta o jaula se protege al animal de cualquier accidente y al chofer del automóvil, ya que si va suelto puede introducirse entre los pies del conductor entorpeciendo su manejo y provocar un accidente, o también en una frenada brusca puede lastimarse al no ir contenido. \n  \n
+Si se elige una jaula para tener al perro en momentos determinados, se le estará haciendo un favor al perro ya que le damos su propia "cucha". \n  \n
+    </string>
+    <string name="acaricioorina">
+      Cuando están excitados, los cachorros orinan con frecuencia en forma espontánea, ellos no tienen ningún control de esta acción y a veces, incluso no comprenden lo que ha ocurrido. Otros perros pueden orinar como una señal de sumisión en la presencia de otro animal (o persona) que ellos consideran dominantes. Estos animales tampoco pueden controlar esa situación. \n  \n
+La micción sumisa a veces se ve en cachorros o perros jóvenes que han sido castigados. Sin embargo, muchos cachorros que son absolutamente normales y han recibido un trato adecuado, también pueden desarrollar una micción involuntaria. Estos problemas parecen ser causados por un problema neurológico de los músculos vesicales (vejiga) o por un maltrato que asustó o intimidó al cachorro. \n  \n
+La reeducación e incluso medicación se utiliza en estos cachorros, en el caso de la reeducación debe hacerse por profesionales en comportamiento animal porque la corrección hecha por el tutor generalmente, no soluciona el problema, con respecto a los medicamentos utilizados son sedativos que funcionan mientras son medicados pero hay recurrencia cuando se interrumpe la administración.\n  \n
+Se sugiere que se investigue la razón o el hecho desencadenante por parte del dueño, pueden ser varias cosas, algunas serán fáciles de determinar como por ej. acercarse al cachorro en forma súbita y él desencadena el hecho de orinar, otros se orinan cuando uno se agacha a acariciarlo, cualquier acción identificada que desencadena el suceso hay que tratar de evitar que ocurra.\n  \n
+La mayoría de los cachorros deja de hacerlo cuando llega a los seis meses de edad, si además el animal se desarrolla en un ambiente tranquilo y de buen trato facilitará la corrección de ese problema. Hay que ser paciente y cuando sucede, inmediatamente hay que limpiar y olvidarse de la situación y no regañar o castigar al cachorro. \n  \n
+    </string>
+    <string name="levantapataorinar">
+El perro utiliza su orina como un indicador o marcador de territorio para otros perros. Los perros machos y algunas hembras orinarán en varios sitios de un lugar que ellos consideran "su territorio" para impregnarlos de “su” olor y es una forma de indicar a otros perros "este lugar es mío". \n  \n
+Es común que los perros orinen sobre una superficie vertical, la cual puede ser el típico tronco de árbol, una pared, la rueda de nuestro auto, etc. ¿ porqué lo hacen?, se cree que al orinar sobre una superficie más elevada el olor persistirá por más tiempo que en una superficie horizontal, además el aroma a su orina estará a la altura de la nariz del perro extraño que se acerque a "su territorio".\n  \n
+    </string>
+    <string name="muerdetodo">
+A todo cachorro le gusta morder y masticar, es parte de su mundo y no puede evitarlo, así como saltar y jugar, pasa mucho tiempo mordiendo algo, es una forma de aprender a usar su boca como herramienta de caza más importante. \n  \n
+Esta actividad también la hace con los miembros de la casa, principalmente con los niños con los cuales juega todo el tiempo, pero como sus dientes son de leche (dentición temporaria), esta  dentadura primaria se caracteriza por tener dientes filosos que pueden producir heridas en los niños y otras laceraciones. Hay varios métodos que se utilizan para eliminar esta conducta: \n  \n
+<b>Sosteniendo la boca cerrada </b>\n
+Este método es el más simple, consiste en tomar la boca y mantenerla cerrada, sin apretar demasiado, el cachorro le disgusta esta situación y comenzará a gemir al sentirse incómodo, sostenemos su boca cerrada por unos segundos. Sin causar dolor. Espere 4 a 5 segundos y entonces hay que soltarlo. No hay que decirle nada y seguir con la tarea que se estaba haciendo, cada vez que quiera morder se hace lo mismo y en unas cuantas sesiones, relacionará el hecho de morder con el de tomarle la boca y lo dejará de hacer. \n  \n
+No es recomendable que lo hagan los niños, porque a ellos puede gustarle tomarle la boca al cachorro como una forma de diversión y entonces pueden instigar al que el animal muerda para tomarle la boca, de esta forma pueden herirse ellos o lastimar al cachorro. \n  \n
+<b>Respuesta rápida y redirección</b> \n
+Consiste en emitir un sonido de "dolor" en forma fuerte y aguda que puede ser !ayy!, el sonido debe ser súbito y fuerte para que el cachorro se sobresalte e inmediatamente detenga la conducta, si se ha realizado correctamente, el cachorro dejará de morder sorprendido, en ese momento, rápidamente hay que darle una pelota o juguete que él pueda masticar. Esto redirige la conducta hacia el elemento que le administramos para que muerda, de esta manera el animal aprende a morder el juguete cada vez que le damos la orden cuando quiere mordernos , en algunos casos esta metodología excita aun más al cachorro, en esta caso hay que probar con otra forma de educación. \n  \n
+<b>Detener la acción </b>\n
+Cada vez que muerda, hay que irse inmediatamente de su lado y dejarlo solo, esto puede ser efectivo con niños, ya que el cachorro relacionará que cada vez que muerde lo dejan solo, perdiendo sus compañeros de juego y ya no será tan divertido.\n  \n
+No importa qué método se use, pero no se debe incitar al cachorro a morder provocándolo con las manos o haciendo juegos como remolcarlo prendido con sus dientes en alguna tela o palo, se debe estimular a que muerda sus propios juguetes. \n  \n
+    </string>
+    <string name="entierranhueso">
+Los parientes salvajes del perro entierran frecuentemente su comida. Ellos pueden haber matado un animal, que es demasiado grande para comerlo enseguida, o pueden haber sacrificado varios animales cuando son abundantes. Los lobos y zorros enterrarán esta comida para conservarla y protegerla de que otro predador la encuentre y la ingiera. Esto se llama acumulación de reservas. Las ardillas tienen la misma conducta. \n  \n
+Los perros domésticos conservan todavía este comportamiento y enterrarán un hueso o juguete en el patio, o incluso bajo una manta u otra cosa como una manera de reservar y protegerlo. El perro doméstico raramente sufre el hambre extrema que lo lleve a desenterrar lo guardado, generalmente se olvidan de esos tesoros escondidos. \n  \n
+    </string>
+    <string name="title_activity_cuidados">cuidados</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detalle_cuidados">detalleCuidados</string>
+    <string name="title_activity_detallecuidados">detallecuidados</string>
+    <string name="title_activity_cuidado">cuidado</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_cuidados_yeducacion">CuidadosYEducacion</string>
+</resources>

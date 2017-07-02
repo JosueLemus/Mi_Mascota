@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.lemus.mimascota.CuidadosYEducacion">
+    <item
+        android:id="@+id/Contacto"
+        android:title="Contactos"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/Compartir"
+        android:title="Compartir App"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/Sugerencias"
+        android:title="Sugerencias"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/Cambiar"
+        android:title="Cambiar Nombres"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/Bibliografia"
+        android:title="Bibliografia"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/About"
+        android:title="About"
+        app:showAsAction="never"/>
+
+</menu>

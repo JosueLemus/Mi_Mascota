@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lemus.mimascota">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logopatita"
+        android:label="Mi Mascota"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MiMascota" />
+        <activity android:name=".PERROS" />
+        <activity android:name=".PrimerosAuxiliosP" />
+        <activity android:name=".PrimAux" />
+        <activity android:name=".CuidadosPerro" />
+        <activity android:name=".DetalleCuidados" />
+        <activity android:name=".veterinarios" />
+        <activity android:name=".Inicio" />
+        <activity android:name=".detalleVeterinario" />
+        <activity android:name=".Bibliografia" />
+        <activity android:name=".Adopcion"></activity>
+    </application>
+
+</manifest>
